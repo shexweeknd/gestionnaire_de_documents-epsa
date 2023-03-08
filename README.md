@@ -22,5 +22,8 @@ Les technologies utilisées pour ce projet sont:
 * PyQt5
 * SQLite3
 
+## Comment utiliser le projet
+Pour utiliser le projet, vous devez d'abord installer Python, PyQt5 et SQLite3 sur votre machine. Une fois que vous avez installé ces dépendances, vous pouvez exécuter le fichier principal main.py pour lancer l'application
+
 ## Conclusion
 Ce mini-projet de gestion de documents administratifs vise à permettre au secrétariat de gérer efficacement les documents manuscrits et les courriels enregistrés dans une table (classeur). Il est attendu que l'application soit conviviale, rapide, performante et facile à utiliser pour répondre aux besoins du secrétariat
