@@ -27,3 +27,7 @@ Pour utiliser le projet, vous devez d'abord installer Python, PyQt5 et SQLite3 s
 
 ## Conclusion
 Ce mini-projet de gestion de documents administratifs vise à permettre au secrétariat de gérer efficacement les documents manuscrits et les courriels enregistrés dans une table (classeur). Il est attendu que l'application soit conviviale, rapide, performante et facile à utiliser pour répondre aux besoins du secrétariat
+
+## Ce logiciel est publié sous la licence MIT (MIT).
+
+© 2020 - 2023 B. Puig, Some rights reserved.
